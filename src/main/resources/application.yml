@@ -1,0 +1,8 @@
+server:
+  port: 8081
+beetl: 
+  config: beetl.properties
+  order: 0
+  templatesPath: /templates/
+  prefix: beetl/
+  suffix: .btl
